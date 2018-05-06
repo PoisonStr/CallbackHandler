@@ -17,7 +17,7 @@ public  MyButton(Context context, AttributeSet set){
     @Override
     public  boolean onKeyDown(int KeyCode, KeyEvent event){
     super.onKeyDown(KeyCode,event);
-        Log.v("-crazyit.org-","the onKeyDown in MyButton");
+        Log.v("com.sise","the onKeyDown in MyButton");
         return true;
 
     }

@@ -7,7 +7,7 @@
     android:orientation="vertical"
     tools:context="callbackhandler.example.com.callbackhandler.MainActivity">
 
-   <org.crazyit.event.MyButton
+   <callbackhandler.example.com.callbackhandler.MyButton
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:text="单击我"/>
